@@ -1,4 +1,4 @@
-# Summatti Assessment - Simple encoded authentication
+# Simple encoded authentication
 
 Hi! This is my attempt at the assessment I was sent. All the main logic is in the routes/index.js file. I added the /addUser and /allUsers endpoints for convenience. 
 
