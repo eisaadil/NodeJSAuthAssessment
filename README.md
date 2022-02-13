@@ -12,4 +12,5 @@
 ## Notification function
 ![notification](https://user-images.githubusercontent.com/4246528/153771295-5f6e2b17-3720-496a-be89-4b2516ffc69f.png) 
 
-
+## Bonus (1 Request per minute)
+![tooManyRequests](https://user-images.githubusercontent.com/4246528/153771541-5e792460-4fd6-4a34-bee6-b07d2c1a12ac.png)
