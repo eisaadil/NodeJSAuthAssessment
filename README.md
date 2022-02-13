@@ -1,5 +1,7 @@
 # Summatti Assessment - Simple encoded authentication
 
+Hi! This is my attempt at the assessment I was sent. All the main logic is in the routes/index.js file. I added the addUser and allUsers endpoints for convenience. 
+
 ## Add user with base64 encoding
 ![addUser](https://user-images.githubusercontent.com/4246528/153771292-3b031374-9488-498f-9426-c3b7283b579e.png) 
 
